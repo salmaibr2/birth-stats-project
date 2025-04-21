@@ -1,0 +1,769 @@
+Calendar Year,Payer,Delivery System,Grouper,Birth Characteristic, Number of Births 
+2007,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,9987
+2007,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,176665
+2007,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,13
+2007,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),161398
+2007,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),18361
+2007,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,6906
+2007,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",184919
+2007,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,13
+2007,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1733
+2007,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,177171
+2007,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,6906
+2007,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),2588
+2007,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,4556
+2007,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,71283
+2007,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,2
+2007,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),63349
+2007,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),8122
+2007,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,4370
+2007,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",75159
+2007,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,2
+2007,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",680
+2007,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,70313
+2007,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,4370
+2007,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1158
+2007,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,3093
+2007,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,48249
+2007,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,12
+2007,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),43659
+2007,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),5247
+2007,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,2448
+2007,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",50736
+2007,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,12
+2007,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",606
+2007,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,48094
+2007,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,2448
+2007,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),812
+2007,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,10915
+2007,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,218702
+2007,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,17
+2007,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),203402
+2007,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),18273
+2007,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,7959
+2007,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",227791
+2007,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,17
+2007,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1826
+2007,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,219420
+2007,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,7959
+2007,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),2255
+2008,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,9724
+2008,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,172368
+2008,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,22
+2008,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),158526
+2008,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),17349
+2008,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,6239
+2008,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",180446
+2008,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,22
+2008,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1646
+2008,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,173449
+2008,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,6239
+2008,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),2426
+2008,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,4571
+2008,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,72733
+2008,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,8
+2008,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),65442
+2008,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),8042
+2008,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3828
+2008,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",76595
+2008,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,8
+2008,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",709
+2008,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,72389
+2008,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3828
+2008,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1095
+2008,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2835
+2008,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,44057
+2008,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,10
+2008,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),40459
+2008,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),4537
+2008,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1906
+2008,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",46344
+2008,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,10
+2008,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",548
+2008,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,44263
+2008,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1906
+2008,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),733
+2008,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,10474
+2008,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,212198
+2008,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,25
+2008,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),198515
+2008,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),16934
+2008,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,7248
+2008,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",221008
+2008,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,25
+2008,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1664
+2008,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,213392
+2008,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,7248
+2008,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),2057
+2009,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,9148
+2009,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,163053
+2009,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,12
+2009,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),151216
+2009,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),15839
+2009,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,5158
+2009,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",170638
+2009,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,12
+2009,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1563
+2009,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,164823
+2009,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,5158
+2009,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),2232
+2009,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,4570
+2009,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,74193
+2009,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,8
+2009,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),67945
+2009,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),7832
+2009,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,2994
+2009,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",78063
+2009,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,8
+2009,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",700
+2009,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,74712
+2009,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,2994
+2009,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1065
+2009,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2656
+2009,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,41475
+2009,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,13
+2009,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),38567
+2009,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),4155
+2009,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1422
+2009,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",43579
+2009,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,13
+2009,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",552
+2009,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,42014
+2009,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1422
+2009,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),708
+2009,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9803
+2009,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,199822
+2009,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,18
+2009,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),187310
+2009,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),15422
+2009,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,6911
+2009,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",208069
+2009,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,18
+2009,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1556
+2009,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,200832
+2009,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,6911
+2009,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1900
+2010,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,8703
+2010,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,156650
+2010,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,11
+2010,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),146147
+2010,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),14539
+2010,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,4678
+2010,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",163893
+2010,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,11
+2010,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1460
+2010,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,158641
+2010,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,4678
+2010,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),2045
+2010,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,5220
+2010,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,80203
+2010,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,9
+2010,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),73945
+2010,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),8177
+2010,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3310
+2010,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",84619
+2010,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,9
+2010,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",804
+2010,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,80942
+2010,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3310
+2010,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1180
+2010,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2403
+2010,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,36969
+2010,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,9
+2010,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),34539
+2010,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),3579
+2010,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1263
+2010,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",38863
+2010,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,9
+2010,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",509
+2010,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,37492
+2010,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1263
+2010,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),626
+2010,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9395
+2010,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,189818
+2010,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,20
+2010,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),179756
+2010,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),14233
+2010,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,5244
+2010,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",197751
+2010,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,20
+2010,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1462
+2010,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,192221
+2010,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,5244
+2010,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1768
+2011,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,8084
+2011,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,144365
+2011,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,9
+2011,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),134875
+2011,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),13325
+2011,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,4258
+2011,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",151014
+2011,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,9
+2011,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1435
+2011,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,146201
+2011,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,4258
+2011,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1999
+2011,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,5321
+2011,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,86725
+2011,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,5
+2011,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),80189
+2011,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),8490
+2011,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3372
+2011,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",91227
+2011,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,5
+2011,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",819
+2011,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,87459
+2011,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3372
+2011,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1220
+2011,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2322
+2011,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,37739
+2011,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,12
+2011,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),35365
+2011,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),3520
+2011,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1188
+2011,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",39590
+2011,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,12
+2011,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",471
+2011,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,38273
+2011,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1188
+2011,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),612
+2011,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9124
+2011,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,186376
+2011,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,18
+2011,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),178241
+2011,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),13522
+2011,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,3755
+2011,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",194050
+2011,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,18
+2011,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1450
+2011,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,190024
+2011,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,3755
+2011,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1739
+2012,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,7462
+2012,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,137488
+2012,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,12
+2012,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),129016
+2012,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),12275
+2012,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,3671
+2012,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",143564
+2012,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,12
+2012,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1386
+2012,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,139430
+2012,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,3671
+2012,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1861
+2012,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,5738
+2012,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,92828
+2012,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,12
+2012,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),86105
+2012,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),9145
+2012,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3328
+2012,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",97668
+2012,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,12
+2012,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",898
+2012,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,93936
+2012,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3328
+2012,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1314
+2012,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2452
+2012,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,37806
+2012,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,6
+2012,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),35593
+2012,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),3634
+2012,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1037
+2012,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",39845
+2012,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,6
+2012,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",413
+2012,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,38655
+2012,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1037
+2012,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),572
+2012,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9156
+2012,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,187772
+2012,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,13
+2012,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),180095
+2012,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),13309
+2012,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,3537
+2012,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",195481
+2012,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,13
+2012,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1447
+2012,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,191650
+2012,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,3537
+2012,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1754
+2013,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,7576
+2013,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,131054
+2013,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,18
+2013,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),125712
+2013,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),10629
+2013,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,2307
+2013,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",137249
+2013,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,18
+2013,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1381
+2013,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,134704
+2013,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,2307
+2013,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1637
+2013,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,5859
+2013,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,92451
+2013,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,13
+2013,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),88424
+2013,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),8153
+2013,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,1746
+2013,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",97369
+2013,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,13
+2013,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",941
+2013,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,95384
+2013,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,1746
+2013,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1193
+2013,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2152
+2013,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,37894
+2013,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,5
+2013,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),36484
+2013,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2812
+2013,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,755
+2013,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",39657
+2013,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,5
+2013,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",389
+2013,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,38859
+2013,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,755
+2013,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),437
+2013,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9113
+2013,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,185102
+2013,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,15
+2013,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),179426
+2013,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),12320
+2013,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,2484
+2013,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",192758
+2013,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,15
+2013,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1457
+2013,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,190086
+2013,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,2484
+2013,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1660
+2014,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,6934
+2014,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,120760
+2014,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,8
+2014,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),115281
+2014,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),9267
+2014,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,3154
+2014,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",126446
+2014,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,8
+2014,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1248
+2014,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,123139
+2014,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,3154
+2014,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1409
+2014,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,6344
+2014,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,104280
+2014,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,10
+2014,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),98973
+2014,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),8329
+2014,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3332
+2014,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",109560
+2014,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,10
+2014,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1064
+2014,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,106068
+2014,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3332
+2014,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1234
+2014,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,1802
+2014,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,38558
+2014,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,8
+2014,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),36998
+2014,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2370
+2014,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1000
+2014,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",40075
+2014,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,8
+2014,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",285
+2014,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,39061
+2014,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1000
+2014,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),307
+2014,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,8934
+2014,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,187116
+2014,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,16
+2014,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),180086
+2014,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),11705
+2014,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,4275
+2014,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",194618
+2014,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,16
+2014,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1432
+2014,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,190248
+2014,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,4275
+2014,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1543
+2015,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,6215
+2015,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,107487
+2015,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,8
+2015,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),102526
+2015,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),8498
+2015,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,2686
+2015,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",112586
+2015,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,8
+2015,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1116
+2015,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,109761
+2015,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,2686
+2015,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1263
+2015,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,7329
+2015,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,116529
+2015,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,18
+2015,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),110901
+2015,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),9558
+2015,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3417
+2015,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",122649
+2015,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,18
+2015,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1209
+2015,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,119081
+2015,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3417
+2015,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1378
+2015,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,1737
+2015,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,34588
+2015,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,13
+2015,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),33287
+2015,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2257
+2015,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,794
+2015,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",36037
+2015,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,13
+2015,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",288
+2015,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,35227
+2015,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,794
+2015,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),317
+2015,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9058
+2015,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,182510
+2015,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,26
+2015,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),176355
+2015,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),11839
+2015,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,3400
+2015,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",190187
+2015,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,26
+2015,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1381
+2015,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,186633
+2015,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,3400
+2015,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1561
+2016,Medi-Cal,Fee-for-Service,Birthweight Range,Low Birthweight,5380
+2016,Medi-Cal,Fee-for-Service,Birthweight Range,Normal Birthweight,90357
+2016,Medi-Cal,Fee-for-Service,Birthweight Range,Unknown Birthweight,10
+2016,Medi-Cal,Fee-for-Service,Length of Gestation,Normal Gestation (>=37 Weeks),86069
+2016,Medi-Cal,Fee-for-Service,Length of Gestation,Preterm Delivery (<37 Weeks),7388
+2016,Medi-Cal,Fee-for-Service,Length of Gestation,Unknown Gestation,2290
+2016,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Birthweight >=1,500g",94787
+2016,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,Unknown Birthweight,10
+2016,Medi-Cal,Fee-for-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",950
+2016,Medi-Cal,Fee-for-Service,Very Preterm Status,Gestation >=32 Weeks,92336
+2016,Medi-Cal,Fee-for-Service,Very Preterm Status,Unknown Gestation,2290
+2016,Medi-Cal,Fee-for-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1121
+2016,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,8298
+2016,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,133195
+2016,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,14
+2016,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),127133
+2016,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),10739
+2016,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3635
+2016,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",140121
+2016,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,14
+2016,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1372
+2016,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,136270
+2016,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3635
+2016,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1602
+2016,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,1764
+2016,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,36354
+2016,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,8
+2016,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),34912
+2016,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2291
+2016,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,923
+2016,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",37861
+2016,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,8
+2016,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",257
+2016,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,36898
+2016,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,923
+2016,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),305
+2016,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9004
+2016,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,179982
+2016,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,8
+2016,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),174315
+2016,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),11751
+2016,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,2928
+2016,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",187691
+2016,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,8
+2016,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1295
+2016,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,184624
+2016,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,2928
+2016,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1442
+2017,Medi-Cal,Fee-For-Service,Birthweight Range,Low Birthweight,4757
+2017,Medi-Cal,Fee-For-Service,Birthweight Range,Normal Birthweight,77225
+2017,Medi-Cal,Fee-For-Service,Birthweight Range,Unknown Birthweight,3
+2017,Medi-Cal,Fee-For-Service,Length of Gestation,Normal Gestation (>=37 Weeks),73708
+2017,Medi-Cal,Fee-For-Service,Length of Gestation,Preterm Delivery (<37 Weeks),6560
+2017,Medi-Cal,Fee-For-Service,Length of Gestation,Unknown Gestation,1717
+2017,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Birthweight >=1,500g",81142
+2017,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,Unknown Birthweight,3
+2017,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",840
+2017,Medi-Cal,Fee-For-Service,Very Preterm Status,Gestation >=32 Weeks,79296
+2017,Medi-Cal,Fee-For-Service,Very Preterm Status,Unknown Gestation,1717
+2017,Medi-Cal,Fee-For-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),972
+2017,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,8570
+2017,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,135467
+2017,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,24
+2017,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),129132
+2017,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),11458
+2017,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,3471
+2017,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",142693
+2017,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,24
+2017,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1344
+2017,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,138996
+2017,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,3471
+2017,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1594
+2017,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,1942
+2017,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,38341
+2017,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,10
+2017,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),36732
+2017,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2617
+2017,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,944
+2017,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",39972
+2017,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,10
+2017,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",311
+2017,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,38989
+2017,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,944
+2017,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),360
+2017,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,8899
+2017,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,174271
+2017,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,17
+2017,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),169108
+2017,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),11550
+2017,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,2529
+2017,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",181844
+2017,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,17
+2017,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1326
+2017,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,179176
+2017,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,2529
+2017,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1482
+2018,Medi-Cal,Fee-For-Service,Birthweight Range,Low Birthweight,4367
+2018,Medi-Cal,Fee-For-Service,Birthweight Range,Normal Birthweight,69600
+2018,Medi-Cal,Fee-For-Service,Birthweight Range,Unknown Birthweight,8
+2018,Medi-Cal,Fee-For-Service,Length of Gestation,Normal Gestation (>=37 Weeks),66493
+2018,Medi-Cal,Fee-For-Service,Length of Gestation,Preterm Delivery (<37 Weeks),6118
+2018,Medi-Cal,Fee-For-Service,Length of Gestation,Unknown Gestation,1364
+2018,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Birthweight >=1,500g",73172
+2018,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,Unknown Birthweight,8
+2018,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",795
+2018,Medi-Cal,Fee-For-Service,Very Preterm Status,Gestation >=32 Weeks,71672
+2018,Medi-Cal,Fee-For-Service,Very Preterm Status,Unknown Gestation,1364
+2018,Medi-Cal,Fee-For-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),939
+2018,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,8659
+2018,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,132358
+2018,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,19
+2018,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),126798
+2018,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),11429
+2018,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,2809
+2018,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",139646
+2018,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,19
+2018,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1371
+2018,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,136622
+2018,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,2809
+2018,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1605
+2018,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,1804
+2018,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,34084
+2018,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,13
+2018,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),32711
+2018,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2438
+2018,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,752
+2018,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",35616
+2018,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,13
+2018,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",272
+2018,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,34834
+2018,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,752
+2018,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),315
+2018,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,8860
+2018,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,174445
+2018,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,15
+2018,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),169451
+2018,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),11641
+2018,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,2228
+2018,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",181999
+2018,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,15
+2018,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1306
+2018,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,179588
+2018,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,2228
+2018,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1504
+2019,Medi-Cal,Fee-For-Service,Birthweight Range,Low Birthweight,4372
+2019,Medi-Cal,Fee-For-Service,Birthweight Range,Normal Birthweight,66055
+2019,Medi-Cal,Fee-For-Service,Birthweight Range,Unknown Birthweight,11
+2019,Medi-Cal,Fee-For-Service,Length of Gestation,Normal Gestation (>=37 Weeks),61835
+2019,Medi-Cal,Fee-For-Service,Length of Gestation,Preterm Delivery (<37 Weeks),7310
+2019,Medi-Cal,Fee-For-Service,Length of Gestation,Unknown Gestation,1293
+2019,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Birthweight >=1,500g",69634
+2019,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,Unknown Birthweight,11
+2019,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",793
+2019,Medi-Cal,Fee-For-Service,Very Preterm Status,Gestation >=32 Weeks,68078
+2019,Medi-Cal,Fee-For-Service,Very Preterm Status,Unknown Gestation,1293
+2019,Medi-Cal,Fee-For-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1067
+2019,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,8190
+2019,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,128067
+2019,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,17
+2019,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),120137
+2019,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),13181
+2019,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,2956
+2019,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",134939
+2019,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,17
+2019,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1318
+2019,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,131571
+2019,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,2956
+2019,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1747
+2019,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,1894
+2019,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,33586
+2019,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,7
+2019,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),31842
+2019,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),2851
+2019,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,794
+2019,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",35214
+2019,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,7
+2019,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",266
+2019,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,34312
+2019,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,794
+2019,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),381
+2019,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9429
+2019,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,174858
+2019,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,25
+2019,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),167608
+2019,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),13778
+2019,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,2926
+2019,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",182881
+2019,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,25
+2019,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1406
+2019,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,179668
+2019,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,2926
+2019,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1718
+2020,Medi-Cal,Fee-For-Service,Birthweight Range,Low Birthweight,3711
+2020,Medi-Cal,Fee-For-Service,Birthweight Range,Normal Birthweight,55236
+2020,Medi-Cal,Fee-For-Service,Birthweight Range,Unknown Birthweight,5
+2020,Medi-Cal,Fee-For-Service,Length of Gestation,Normal Gestation (>=37 Weeks),51072
+2020,Medi-Cal,Fee-For-Service,Length of Gestation,Preterm Delivery (<37 Weeks),6257
+2020,Medi-Cal,Fee-For-Service,Length of Gestation,Unknown Gestation,1623
+2020,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Birthweight >=1,500g",58298
+2020,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,Unknown Birthweight,5
+2020,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",649
+2020,Medi-Cal,Fee-For-Service,Very Preterm Status,Gestation >=32 Weeks,56409
+2020,Medi-Cal,Fee-For-Service,Very Preterm Status,Unknown Gestation,1623
+2020,Medi-Cal,Fee-For-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),920
+2020,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,7472
+2020,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,115926
+2020,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,15
+2020,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),107481
+2020,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),11832
+2020,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,4100
+2020,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",122226
+2020,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,15
+2020,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1172
+2020,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,117748
+2020,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,4100
+2020,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1565
+2020,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2221
+2020,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,35938
+2020,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,14
+2020,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),33437
+2020,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),3477
+2020,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,1259
+2020,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",37786
+2020,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,14
+2020,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",373
+2020,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,36444
+2020,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,1259
+2020,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),470
+2020,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,8915
+2020,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,171994
+2020,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,14
+2020,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),162455
+2020,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),12929
+2020,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,5539
+2020,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",179660
+2020,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,14
+2020,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1249
+2020,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,173842
+2020,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,5539
+2020,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1542
+2021,Medi-Cal,Fee-For-Service,Birthweight Range,Low Birthweight,3090
+2021,Medi-Cal,Fee-For-Service,Birthweight Range,Normal Birthweight,43410
+2021,Medi-Cal,Fee-For-Service,Birthweight Range,Unknown Birthweight,9
+2021,Medi-Cal,Fee-For-Service,Length of Gestation,Normal Gestation (>=37 Weeks),39992
+2021,Medi-Cal,Fee-For-Service,Length of Gestation,Preterm Delivery (<37 Weeks),4869
+2021,Medi-Cal,Fee-For-Service,Length of Gestation,Unknown Gestation,1648
+2021,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Birthweight >=1,500g",45967
+2021,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,Unknown Birthweight,9
+2021,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",533
+2021,Medi-Cal,Fee-For-Service,Very Preterm Status,Gestation >=32 Weeks,44154
+2021,Medi-Cal,Fee-For-Service,Very Preterm Status,Unknown Gestation,1648
+2021,Medi-Cal,Fee-For-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),707
+2021,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,7883
+2021,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,121185
+2021,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,16
+2021,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),111400
+2021,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),12632
+2021,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,5052
+2021,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",127837
+2021,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,16
+2021,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1231
+2021,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,122379
+2021,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,5052
+2021,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1653
+2021,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2654
+2021,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,36618
+2021,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,10
+2021,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),33089
+2021,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),4011
+2021,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,2182
+2021,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",38805
+2021,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,10
+2021,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",467
+2021,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,36484
+2021,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,2182
+2021,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),616
+2021,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,9925
+2021,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,176242
+2021,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,23
+2021,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),166381
+2021,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),13988
+2021,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,5821
+2021,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",184785
+2021,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,23
+2021,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1382
+2021,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,178698
+2021,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,5821
+2021,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1671
+2022,Medi-Cal,Fee-For-Service,Birthweight Range,Low Birthweight,2552
+2022,Medi-Cal,Fee-For-Service,Birthweight Range,Normal Birthweight,36523
+2022,Medi-Cal,Fee-For-Service,Birthweight Range,Unknown Birthweight,2
+2022,Medi-Cal,Fee-For-Service,Length of Gestation,Normal Gestation (>=37 Weeks),33381
+2022,Medi-Cal,Fee-For-Service,Length of Gestation,Preterm Delivery (<37 Weeks),4178
+2022,Medi-Cal,Fee-For-Service,Length of Gestation,Unknown Gestation,1518
+2022,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Birthweight >=1,500g",38612
+2022,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,Unknown Birthweight,2
+2022,Medi-Cal,Fee-For-Service,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",463
+2022,Medi-Cal,Fee-For-Service,Very Preterm Status,Gestation >=32 Weeks,36951
+2022,Medi-Cal,Fee-For-Service,Very Preterm Status,Unknown Gestation,1518
+2022,Medi-Cal,Fee-For-Service,Very Preterm Status,Very Preterm Delivery (<32 Weeks),608
+2022,Medi-Cal,Managed Care,Birthweight Range,Low Birthweight,8844
+2022,Medi-Cal,Managed Care,Birthweight Range,Normal Birthweight,131057
+2022,Medi-Cal,Managed Care,Birthweight Range,Unknown Birthweight,20
+2022,Medi-Cal,Managed Care,Length of Gestation,Normal Gestation (>=37 Weeks),119669
+2022,Medi-Cal,Managed Care,Length of Gestation,Preterm Delivery (<37 Weeks),13680
+2022,Medi-Cal,Managed Care,Length of Gestation,Unknown Gestation,6572
+2022,Medi-Cal,Managed Care,Very Low Birthweight Status,"Birthweight >=1,500g",138581
+2022,Medi-Cal,Managed Care,Very Low Birthweight Status,Unknown Birthweight,20
+2022,Medi-Cal,Managed Care,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1320
+2022,Medi-Cal,Managed Care,Very Preterm Status,Gestation >=32 Weeks,131574
+2022,Medi-Cal,Managed Care,Very Preterm Status,Unknown Gestation,6572
+2022,Medi-Cal,Managed Care,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1775
+2022,Non-Medi-Cal,Other Coverage,Birthweight Range,Low Birthweight,2791
+2022,Non-Medi-Cal,Other Coverage,Birthweight Range,Normal Birthweight,38720
+2022,Non-Medi-Cal,Other Coverage,Birthweight Range,Unknown Birthweight,11
+2022,Non-Medi-Cal,Other Coverage,Length of Gestation,Normal Gestation (>=37 Weeks),35202
+2022,Non-Medi-Cal,Other Coverage,Length of Gestation,Preterm Delivery (<37 Weeks),4072
+2022,Non-Medi-Cal,Other Coverage,Length of Gestation,Unknown Gestation,2248
+2022,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Birthweight >=1,500g",41074
+2022,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,Unknown Birthweight,11
+2022,Non-Medi-Cal,Other Coverage,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",437
+2022,Non-Medi-Cal,Other Coverage,Very Preterm Status,Gestation >=32 Weeks,38681
+2022,Non-Medi-Cal,Other Coverage,Very Preterm Status,Unknown Gestation,2248
+2022,Non-Medi-Cal,Other Coverage,Very Preterm Status,Very Preterm Delivery (<32 Weeks),593
+2022,Non-Medi-Cal,Private Insurance,Birthweight Range,Low Birthweight,10015
+2022,Non-Medi-Cal,Private Insurance,Birthweight Range,Normal Birthweight,169265
+2022,Non-Medi-Cal,Private Insurance,Birthweight Range,Unknown Birthweight,13
+2022,Non-Medi-Cal,Private Insurance,Length of Gestation,Normal Gestation (>=37 Weeks),160877
+2022,Non-Medi-Cal,Private Insurance,Length of Gestation,Preterm Delivery (<37 Weeks),13725
+2022,Non-Medi-Cal,Private Insurance,Length of Gestation,Unknown Gestation,4691
+2022,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Birthweight >=1,500g",177995
+2022,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,Unknown Birthweight,13
+2022,Non-Medi-Cal,Private Insurance,Very Low Birthweight Status,"Very Low Birthweight (<1,500g)",1285
+2022,Non-Medi-Cal,Private Insurance,Very Preterm Status,Gestation >=32 Weeks,173033
+2022,Non-Medi-Cal,Private Insurance,Very Preterm Status,Unknown Gestation,4691
+2022,Non-Medi-Cal,Private Insurance,Very Preterm Status,Very Preterm Delivery (<32 Weeks),1569

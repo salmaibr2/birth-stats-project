@@ -1,0 +1,611 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "Readers should note that pregnant women enrolled in Medi-Cal are generally poor, usually unemployed, and lack private insurance. Their pregnancies may be marked not only by substance use, but by lack of self-care, poor nutrition, smoking, homelessness, and stress that may affect their pregnancy and their children. Because these factors have not been controlled for, readers should not attempt to compare health delivery systems to one another based solely on the statistics presented in this dataset. Many factors influence the likelihood of receiving a comorbidity diagnosis prior to or at the time of delivery, including insurance status, language barriers, and continuity of care. These factors may result in the underreporting of chronic conditions, especially in vulnerable populations. When comparing Medi-Cal populations, readers should be aware of subpopulation size. Although some Medi-Cal subpopulations may disclose a high percentage of adverse birth outcomes, they only constitute a small fraction of Medi-Cal’s total births. Readers should interpret the greater occurrence of negative health outcomes in these small groups in light of their population size. A necessary step in comparing outcomes among health systems is risk adjustment. Risk adjustment is a method used to remove or reduce the effects of confounding factors in studies in which cases are not randomly assigned to different treatments, or in this case, systems of care. Multivariable adjustment is outside the scope of this type of statistical report. This dataset is intended to provide descriptive statistics, not to draw conclusions about the health care delivery system.",
+  "citation": "State of California, Department of Health Care Services, Medi-Cal Birth Report Tables from 2007 to 2022",
+  "contact_email": "opendata@dhcs.ca.gov",
+  "data_collection_tool": "MIS/DSS Data Warehouse",
+  "data_license": "Terms of Use",
+  "de_identification_method": "http://www.dhcs.ca.gov/dataandstats/Pages/PublicReportingGuidelines.aspx",
+  "description": "California Birth Report totals by Birth Characteristics to inform the public, stakeholders, and researchers.\r\n\r\nThe DHCS Medi-Cal Birth Statistics tables present the descriptive statistics for California resident births that occurred in a hospital setting, including data on maternal characteristics, delivery methods, and select birth outcomes such as low birthweight and preterm delivery. Tables also include key comorbidities and health behaviors known to influence birth outcomes, such as hypertension, diabetes, substance use, pre-pregnancy weight, and smoking during pregnancy. \r\n\r\nDHCS additionally presents birth statistics for women participating in the Medi-Cal Fee-For-Service (FFS) and managed care delivery systems, as well as births financed by private insurance, births financed by other public funding sources, and births among uninsured mothers. Medi-Cal data reflect mothers that were deemed as Medi-Cal certified eligible.\r\n\r\n__Note:__ Data for maternal comorbidities including hypertension, diabetes, and substance use have been provisionally omitted among calendar years 2020-2022 for the time being.",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "statewide",
+  "keywords": [
+    "aid category",
+    "birth characteristics",
+    "births",
+    "birthweight range",
+    "birthweight status",
+    "calendar year",
+    "certified eligible",
+    "delivery system",
+    "dhcs",
+    "ethnicity",
+    "geographic region",
+    "medi-cal",
+    "method of delivery",
+    "payer type",
+    "race",
+    "resident births",
+    "singleton births"
+  ],
+  "limitations": "Limitations",
+  "name": "medi-cal-birth-statistics-by-select-characteristics-california-resident-hospital-births",
+  "program_web_page": "www.dhcs.ca.gov",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "To aid in analysis, California’s 58 counties are separated into nine geographic regions: Bay Area, Central Coast, Central Valley, Far North, Los Angeles, North Coast, Sacramento Valley, Sierra Range/Foothills, and Southern California.",
+      "format": "PDF",
+      "name": "ca-geographic-regions-map",
+      "path": "ca-geographic-regions-map.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/315a08e3-eef3-406d-8c9c-093fab0467a3/download/ca-geographic-regions-image2.pdf",
+          "title": "CA Geographic Regions Map"
+        }
+      ],
+      "title": "CA Geographic Regions Map"
+    },
+    {
+      "description": "This reference table, maintained by DHCS, displays aid code categories by aid code as they are utilized in datasets pertaining to live births. Aid codes identify the criteria by which each person qualifies for Medi-Cal and the types of services he or she receives, and make clear whether the services are funded by the State or Federal government or both. An aid code is a combination of two numbers or a letter and a number and is attached to a Medi-Cal beneficiary’s identification numbers. Aid code category refers to a unique grouping of distinct aid codes into broad categories such as Adoption/Foster Care, Blind/Disabled, and Families. ",
+      "format": "PDF",
+      "name": "aid-code-grouping-schemas",
+      "path": "aid-code-grouping-schemas.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/a4daf79f-9687-4d2d-94a4-f5438e5f99eb/download/aid_codes_birth_tables.pdf",
+          "title": "Aid Code Grouping Schemas"
+        }
+      ],
+      "title": "Aid Code Grouping Schemas"
+    },
+    {
+      "description": "California Resident Births, by Calendar Year, Payer, Delivery System, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "6b065409a5be26597d2cd84d6addb30b",
+      "name": "ca-resident-births-by-cy-payer-delivery-system-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-delivery-system-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Identifies whether the Medi-Cal beneficiary's health care services are provided through Fee-for-Service or a Managed Care health plan. Also identifies the expected source of payment for the greatest share of the patient's bill.\r\n\r\n* Fee-for-Service\r\n* Managed Care\r\n* Private Insurance\r\n* Other",
+            "name": "Delivery System",
+            "title": "Delivery System",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/f173ff17-e374-4c2d-9e55-78d7cfea7edf/download/t1_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Delivery System, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Delivery System, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Births, by Calendar Year, Payer, Method of Delivery, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "2a9cbda1a87575cdae895798f26d489d",
+      "name": "ca-resident-births-by-cy-payer-method-of-delivery-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-method-of-delivery-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Identifies birth mother's method of delivery.\r\n\r\n* Cesarean-Primary\r\n* Cesarean-Repeat\r\n* Vaginal\r\n* Vaginal After Previous Cesarean",
+            "name": "Method of Delivery",
+            "title": "Method of Delivery",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), co morbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status, etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g. a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/813a68a7-960b-4bb3-95da-f8d7f08d80de/download/t2_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Method of Delivery, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Method of Delivery, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Singleton Births, by Calendar Year, Payer, Delivery System, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "912aa048fb6195113693fe800a3cfd6b",
+      "name": "ca-resident-singleton-births-by-cy-payer-delivery-system-and-select-birth-characteristics",
+      "path": "ca-resident-singleton-births-by-cy-payer-delivery-system-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Identifies  whether the Medi-Cal beneficiary's health care services are provided through Fee-for-Service or a Managed Care health plan. Also identifies the expected source of payment for the greatest share of the patient's bill.\r\n\r\n* Fee-for-Service\r\n* Managed Care\r\n* Private Insurance\r\n* Other",
+            "name": "Delivery System",
+            "title": "Delivery System",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g. maternal diabetes, hypertension, or smoking status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/6c43c75d-9d84-4a67-bbd8-1d867abfaf32/download/t3_detailedtables_2007-2022.csv",
+          "title": "CA Resident Singleton Births, by CY, Payer, Delivery System, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Singleton Births, by CY, Payer, Delivery System, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Births, by Calendar Year, Payer, Birthweight Range, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "58e1e0dbd21bbc254609a2028d131c93",
+      "name": "ca-resident-births-by-cy-payer-birthweight-range-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-birthweight-range-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Grouping based on a newborn's weight at delivery.\r\n\r\n* Low Birthweight (<2,500g)\r\n* Normal Birthweight (> or = 2,500g)\r\n* Unknown Birthweight",
+            "name": "Birthweight Range",
+            "title": "Birthweight Range",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/ca3fb9c7-1530-41e3-9928-f03cd0f38a4c/download/t4_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Birthweight Range, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Birthweight Range, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Births, by Calendar Year, Payer, Very Low Birthweight Status, and Select Birth Characteristics to inform the public, stakeholders, and researchers. ",
+      "format": "CSV",
+      "hash": "ff7e11cf64ecf3d3307a3f1135713779",
+      "name": "ca-resident-births-by-cy-payer-very-low-birthweight-status-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-very-low-birthweight-status-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "string"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Grouping based on a newborn's weight at delivery. A newborn was considered very low birthweight if the weight at delivery was <1,500 grams.\r\n\r\n* Very Low Birthweight (<1,500g)\r\n* Birthweight (> or = 1,500g)\r\n* Unknown Birthweight",
+            "name": "Very Low Birthweight Status",
+            "title": "Very Low Birthweight Status",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status of a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/75631e64-e6c8-4904-83d6-7b7b559685eb/download/t5_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Very Low Birthweight Status, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Very Low Birthweight Status, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Births, by Calendar Year, Payer, Length of Gestation, and Select Birth Characteristics to inform the public, stakeholders, and researchers. ",
+      "format": "CSV",
+      "hash": "3cfbb4db69a11490c9a001c8c053d0dd",
+      "name": "ca-resident-births-by-cy-payer-length-of-gestation-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-length-of-gestation-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Gestational age is recorded on the birth certificate and reflects the number of days between the mother's last menstrual period and the date of birth.\r\n\r\n* Preterm Delivery (<37 Weeks)\r\n* Normal Gestation Range (> or = 37 Weeks)\r\n* Unknown Gestation",
+            "name": "Length of Gestation",
+            "title": "Length of Gestation",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g.,  birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/a573c56d-4ce9-4968-93b4-79fdcf49acc7/download/t6_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Length of Gestation, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Length of Gestation, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Births, by California Year, Payer, Very Preterm Status, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "bae300f6efc1489a51177183ac30ffc8",
+      "name": "ca-resident-births-by-cy-payer-very-preterm-status-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-very-preterm-status-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is the payer of last resort through the identification and utilization of private health insurance and Medicare resources available t individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Gestational age is recorded on the birth certificate and reflects the number of days between the mother's last menstrual period and the date of birth. A newborn with a gestational age of <32 weeks was considered to be a very preterm delivery.\r\n\r\n* Very Preterm Delivery (<32 Weeks)\r\n* Gestation (> or = 32 Weeks)\r\n* Unknown Gestation",
+            "name": "Very Preterm Status",
+            "title": "Very Preterm Status",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/b7e928b9-ff2b-43c9-b1c6-ac6907880ca6/download/t7_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Very Preterm Status, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Very Preterm Status, and Select Birth Characteristics"
+    },
+    {
+      "description": "Medi-Cal Births, by Calendar Year, Aid Category, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "72c2bae3bfb5b51ef549707e44d9854c",
+      "name": "medi-cal-births-by-cy-aid-category-and-select-birth-characteristics",
+      "path": "medi-cal-births-by-cy-aid-category-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Aid category groupings were established by RASD and are used for analytical purposes only. They do not necessarily represent specific distinctions between eligibility criteria, funding sources, or any other differentiating characteristics.",
+            "name": "Aid Category",
+            "title": "Aid Category",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/8d36f4b5-4d5b-4c42-aeb9-bcd158ec7276/download/t8_detailedtables_2007-2022.csv",
+          "title": "Medi-Cal Births, by CY, Aid Category, and Select Birth Characteristics"
+        }
+      ],
+      "title": "Medi-Cal Births, by CY, Aid Category, and Select Birth Characteristics"
+    },
+    {
+      "description": "Certified Eligible Medi-Cal Births, by Calendar Year, Geographic Region, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "01c8e29a07056d8261c75fea29e2b5db",
+      "name": "medi-cal-births-by-cy-geographic-region-and-select-birth-characteristics",
+      "path": "medi-cal-births-by-cy-geographic-region-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "A broad demographic trait (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The geographic region in which a beneficiary resides. To aid in analysis, California's 58 counties are separated into nine geographic regions: Bay Area, Central Coast, Central Valley, Far North, Los Angeles, North Coast, Sacramento Valley, Sierra Range/Foothills, and Southern California.",
+            "name": "Geographic Region",
+            "title": "Geographic Region",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          },
+          {
+            "description": "Code for type of annotation.\r\n\r\n* 1= suppressed due to small number\r\n* 2= suppressed due to complimentary cell small number\r\n* 3= No data available",
+            "name": "Annotation Code",
+            "title": "Annotation Code",
+            "type": "number"
+          },
+          {
+            "description": "Description of Annotation for COUNT columns.",
+            "name": "Annotation Description",
+            "title": "Annotation Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/b4797761-11c3-4820-a345-c156f29499a2/download/t9_detailedtables_2007-2022.csv",
+          "title": "Medi-Cal Births, by CY, Geographic Region, and Select Birth Characteristics"
+        }
+      ],
+      "title": "Medi-Cal Births, by CY, Geographic Region, and Select Birth Characteristics"
+    },
+    {
+      "description": "California Resident Births, by Calendar Year, Payer, Maternal Race/Ethnicity, and Select Birth Characteristics to inform the public, stakeholders, and researchers.",
+      "format": "CSV",
+      "hash": "25d07cb1aafd1a3735b161dc7abeaee8",
+      "name": "ca-resident-births-by-cy-payer-maternal-race-ethnicity-and-select-birth-characteristics",
+      "path": "ca-resident-births-by-cy-payer-maternal-race-ethnicity-and-select-birth-characteristics.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "A period of time commencing on January 1 and ending on the following December 31.",
+            "name": "Calendar Year",
+            "title": "Calendar Year",
+            "type": "number"
+          },
+          {
+            "description": "Medi-Cal program is this payer of last resort through the identification and utilization of private health insurance and Medicare resources available to individual Medi-Cal beneficiaries.\r\n\r\n* Medi-Cal\r\n* Non Medi-Cal",
+            "name": "Payer",
+            "title": "Payer",
+            "type": "string"
+          },
+          {
+            "description": "Identifies birth mother's race/ethnicity.\r\n\r\n* White\r\n* African-American\r\n* Hispanic\r\n* Asian/Pacific Islander\r\n* American Indian/Alaskan Native\r\n* Other/Two or More Race Categories/Unknown",
+            "name": "Maternal Race/Ethnicity",
+            "title": "Maternal Race/Ethnicity",
+            "type": "string"
+          },
+          {
+            "description": "A broad grouping of demographic traits (e.g., maternal age, race/ethnicity, or education status), comorbidity status (e.g., maternal diabetes, hypertension, or smoking status), birth outcome (e.g., birthweight range or very preterm status), etc. into which more granular Birth Characteristics are grouped for easier analysis. Note that in order to generate results for a given Birth Characteristic, the corresponding Grouper must be selected.",
+            "name": "Grouper",
+            "title": "Grouper",
+            "type": "string"
+          },
+          {
+            "description": "A granular demographic trait (e.g., maternal age of 17 or younger, race/ethnicity of Asian, or education status as a high school graduate), comorbidity status (e.g., a diagnosis or lack thereof for diabetes, hypertension, or smoking during pregnancy), birth outcome (e.g., normal birthweight range or very preterm delivery), etc. that is associated with a given birth event.",
+            "name": "Birth Characteristic",
+            "title": "Birth Characteristic",
+            "type": "string"
+          },
+          {
+            "description": "The number of California resident births associated with a given variable or group of variables.",
+            "name": "Number of Births",
+            "title": "Number of Births",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/de523b4c-bd41-47df-89e6-a074836d3162/resource/3736bc70-a49b-44bb-8597-a3a372616c92/download/t10_detailedtables_2007-2022.csv",
+          "title": "CA Resident Births, by CY, Payer, Maternal Race/Ethnicity, and Select Birth Characteristics"
+        }
+      ],
+      "title": "CA Resident Births, by CY, Payer, Maternal Race/Ethnicity, and Select Birth Characteristics"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Enterprise Data and Information Management / Data Management and Analytics Division"
+    }
+  ],
+  "temporal_coverage": "Calendar Years 2007-2022",
+  "title": "Medi-Cal Birth Statistics, by Select Characteristics and California Resident Hospital Births"
+}
